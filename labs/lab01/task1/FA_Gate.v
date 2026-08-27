@@ -22,4 +22,5 @@ module FA_Gate(
   and (pc2, cin, ps);
   or  (cout, pc1, pc2);
 
+
 endmodule
